@@ -1,4 +1,4 @@
-# Gumstix-Yocto-101
+# Gumstix Yocto 101
 
 The Gusmtix Overo and Duovero boards come by defautl with the Yocto system installaed (https://www.yoctoproject.org/). The gumstix packages for the Yocto project can be found in https://packages.gumstix.com/
 
